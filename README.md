@@ -43,4 +43,4 @@ SQL Server was used for data preparation and Power BI for dashboard visualizatio
 - The majority of riders are registered users.
 
 ## Visualizations
-![Dashboard Screenshot](visualizations/dashboard.png)
+![Dashboard Screenshot](Visualizations/dashboard.png)
